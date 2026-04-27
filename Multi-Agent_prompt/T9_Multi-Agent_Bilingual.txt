@@ -1,0 +1,26 @@
+T9:抱鱼娃娃在生闷气
+
+主提示词
+准备：抱鱼娃娃双臂紧搂怀中金鱼，小嘴微撅，眉头轻蹙，目光斜睨地面，胸腔微微起伏带动红肚兜与蓝布裤上细密褶皱轻轻颤动，脚尖无意识地蹭着青砖地。  
+高潮：娃娃猛地将金鱼往怀里一按，圆滚滚的身子随之绷紧，藕节似的手臂肌肉微鼓，金鱼尾鳍因挤压弹起水珠，衣襟与发辫随动作甩出弧线，腮帮子鼓胀如含核桃。  
+收尾：力道渐消，娃娃肩膀缓缓塌下，下巴抵住鱼背，眼睑低垂却仍透出倔强，金鱼在臂弯里轻轻摆尾，漾开一圈微不可察的涟漪，余愠藏在嘴角未散的弧度里。  
+风格：杨柳青年画典型设色——朱红肚兜、靛蓝长裤、桃粉面颊配墨线勾勒，服饰纹样繁而不乱，金鱼鳞片以金箔点染，整体造型圆润饱满，动静间透出民俗木版年画的拙朴韵律。
+负面词
+3D, 写实摄影, 真实照片, 渲染光效, 现代服饰, 西式卡通, 动漫, 科技元素, 霓虹, CG, 模糊, 低清晰度, 水印, 英文文本
+
+---------------
+
+T9:The child holding a carp is sulking.
+
+[Main Prompt]
+
+Preparation: The Bao Yu Wa Wa (child holding a carp) tightly clutches the goldfish in the arms. The mouth is slightly pouted, and the brows are lightly furrowed. The gaze is cast sideways toward the ground. The chest rises and falls slightly, causing the fine wrinkles on the red bellyband (Dudou) and blue cloth trousers to tremble gently. The toes unconsciously rub against the blue brick floor.
+
+Climax: The child suddenly presses the goldfish harder into the chest; the chubby body tenses up accordingly. The "lotus-root-like" (segmented and chubby) arm muscles bulge slightly. The goldfish’s tail fin splashes water droplets due to the squeeze. The lapel and hair braids fling out in arcs with the movement; the cheeks are puffed out as if holding walnuts.
+
+Conclusion: As the force gradually fades, the child’s shoulders slowly slump. The chin rests against the fish’s back. Eyelids are lowered but still reveal a sense of stubbornness. The goldfish gently sways its tail in the crook of the arm, rippling out an imperceptible circle. Residual anger remains hidden in the lingering curve of the mouth.
+
+Style: Typical Yangliuqing woodblock print coloration—vermilion bellyband, indigo trousers, and peach-pink cheeks with ink-line outlines. The clothing patterns are intricate but organized. Goldfish scales are dotted with gold leaf. The overall silhouette is rounded and full, revealing the naive and simple rhythm of folk woodblock prints within the balance of motion and stillness.
+
+[Negative Prompts]
+3D, realistic photography, real photos, rendering light effects, modern clothing, Western-style cartoons, anime, technological elements, neon, CG, blurry, low resolution, watermark, English text.

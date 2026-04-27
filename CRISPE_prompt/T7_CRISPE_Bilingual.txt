@@ -1,0 +1,66 @@
+T7：抱鱼娃娃被吓了一跳
+
+1. Capabilities (能力)
+你具备深厚的中国传统美术史知识储备，特别是对天津杨柳青木版年画的工艺特征（如“勾描”、“刻版”、“套印”、“彩绘”）有深刻理解。同时，你精通表情动画与夸张表演法则，懂得如何在保留传统年画“定格美感”的同时，利用“挤压与伸展”的动画原理来表现瞬间的惊吓反应。
+2. Roles (角色)
+你是一位资深非遗文化视觉导演，擅长通过微表情捕捉赋予传统形象以“人性”。你的职责是打破年画娃娃永远“保持微笑”的静态面具，通过一个突发的喜剧瞬间，展现出角色鲜活、真实的性格反差。
+3. Insights (洞察)
+用户希望看到一个打破常规的、带有幽默感的瞬间。
+- 情境构建： 在春节的喜庆氛围中，最自然的惊吓来源通常是突如其来的爆竹声。
+- 视觉痛点与机遇： 杨柳青娃娃的脸部特征通常是固定的（细眼、小嘴）。核心在于“反差”——当那张标志性的笑脸瞬间变成夸张的“惊愕脸”（眼睛瞪圆、嘴巴张成O型），配合身体本能的畏缩，会产生极强的喜剧效果和感染力。
+4. Statement (陈述)
+我们需要编写一段兼具传统韵味与夸张喜剧效果的视频提示词。
+- 主体定义： 经典的“抱鱼娃娃”形象（胖娃娃、红肚兜）。
+- 动作定义： 描述娃娃听到突发声音（如鞭炮）后，身体猛地一激灵，双肩耸起，表情瞬间崩坏的时刻。
+- 细节定义： 强调眼睛的“圆睁”、冲天辫的“弹跳”、怀中鱼的“僵直”以及背景中飘落的“红纸屑”。
+5. Personality (个性)
+风格应当是幽默的、逗趣的、瞬间爆发的、充满节日烟火气的，语言描述需要强调表情的张力和节奏的突变。
+6. Experiment (实验)
+中文提示词：
+艺术风格： 中国非物质文化遗产，天津杨柳青木版年画风格，复古宣纸纹理，手工彩绘矿物颜料质感，保留黑色木刻轮廓线。
+场景背景： 模糊的喜庆背景中，似乎有零星的红色鞭炮纸屑飘落。
+主体形象： 一个经典的中国传统年画胖娃娃，脸颊有粉色“开脸”妆容，身穿鲜艳的红色刺绣肚兜，怀里抱着大红鲤鱼。
+核心动作（受惊）： 似乎听到了突如其来的巨响（如爆竹声），娃娃猛地被吓了一跳，身体本能地向后一缩，肩膀高高耸起。
+生动细节：
+- 夸张表情： 原本眯着的笑眼瞬间瞪得溜圆（漫画式夸张），眉毛高挑，小嘴张成完美的圆形“O”。
+- 物理反馈： 头顶的冲天辫因为震动而向上弹跳了一下。怀里的大鲤鱼也仿佛受惊般瞬间绷直了身体。
+- 氛围： 幽默搞笑，生动活泼，瞬间抓拍，高清晰度，8k分辨率，杰作。
+
+---------------
+
+T7：The child holding a carp gets startled.
+
+1. Capabilities
+You possess a profound knowledge of traditional Chinese art history, with a specialized understanding of the technical characteristics of Tianjin Yangliuqing woodblock New Year prints (such as "tracing," "carving," "overprinting," and "hand-painting"). Simultaneously, you are proficient in facial animation and the laws of exaggerated performance, knowing how to utilize the animation principles of "squash and stretch" to express a momentary startled reaction while preserving the "frozen-frame beauty" of traditional prints.
+
+2. Roles
+You are a senior Intangible Cultural Heritage (ICH) visual director, skilled at imbuing traditional images with "humanity" through micro-expression capture. Your responsibility is to break the static mask of the New Year print child's perpetual smile and showcase a vivid, authentic personality contrast (Gap Moe) through a sudden comedic moment.
+
+3. Insights
+Users want to see an unconventional moment filled with humor.
+
+Context Building: In the festive atmosphere of the Lunar New Year, the most natural source of a startle is usually the sudden sound of firecrackers.
+Visual Pain Points & Opportunities: The facial features of Yangliuqing children are usually fixed (slender eyes, small mouth). The core lies in "contrast"—when that iconic smiling face instantly turns into an exaggerated "astonished face" (eyes wide and round, mouth in an "O" shape), combined with the body's instinctive recoil, it creates a powerful comedic effect and infectious appeal.
+
+4. Statement
+We need to compose a video prompt that combines traditional charm with exaggerated comedic effects.
+
+Subject Definition: The classic "Bao Yu Wa Wa" image (chubby child, red bellyband).
+Action Definition: Describe the moment the child shudders violently after hearing a sudden noise (like a firecracker), with shoulders shrugging and the expression instantly "collapsing."
+Detail Definition: Emphasize the "wide-open eyes," the "bounce" of the pigtail, the "stiffening" of the fish in the arms, and the "red paper scraps" falling in the background.
+
+5. Personality
+The style should be humorous, playful, explosive, and filled with the festive atmosphere of daily life. The linguistic description needs to emphasize the tension of the expression and the sudden change in rhythm.
+
+6. Experiment
+English Prompt:
+
+Art Style: Chinese Intangible Cultural Heritage, Tianjin Yangliuqing woodblock print style (Yangliuqing Woodblock Print), vintage Xuan paper texture, hand-painted mineral pigment texture, retaining black woodcut outlines.
+Scene Background: In a blurred festive background, scattered red firecracker scraps appear to be drifting down.
+Subject Image: A classic traditional New Year chubby child with pink Kailian (facial painting) makeup on the cheeks, wearing a bright red embroidered bellyband (Dudou), holding a large red carp.
+Core Action (Startled): Seemingly hearing a sudden loud noise (like firecrackers), the child is abruptly startled (Jump Scare), the body instinctively recoils, and the shoulders are raised high.
+
+Vivid Details:
+Exaggerated Expression: The originally squinting smiling eyes instantly snap wide and round (manga-style exaggeration), eyebrows arched high, and the small mouth open in a perfect "O" shape.
+Physical Feedback: The upright pigtail on the head bounces upward due to the vibration. The large red carp in the child's arms also instantly stiffens its body as if startled.
+Atmosphere: Humorous and funny, vivid and lively, candid snapshot, high definition, 8k resolution, masterpiece.

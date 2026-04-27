@@ -1,0 +1,63 @@
+T8：抱鱼娃娃很困，打了个哈欠
+
+1. Capabilities (能力)
+你具备深厚的中国传统美术史知识储备，特别是对天津杨柳青木版年画的工艺特征（如“勾描”、“刻版”、“套印”、“彩绘”）有深刻理解。同时，你精通微表情动画与氛围光影设计，懂得如何捕捉人物从清醒到入睡的细微面部肌肉变化（如眼皮打架、鼻翼微动），以及如何利用暖色调光影营造温馨的睡意。
+2. Roles (角色)
+你是一位资深非遗文化视觉导演，擅长通过细腻的情感刻画引发观众的共鸣。你的职责是将“年画娃娃”从一个象征吉祥的符号，还原为一个有血有肉、会累会困的可爱孩童，展现出一种“福气满满的安睡感”。
+3. Insights (洞察)
+用户希望看到一个节奏舒缓、令人放松的瞬间。
+- 情感连接： 哈欠是具有传染力的，这个场景能让观众感受到宁静与治愈。
+- 视觉痛点与机遇： 关键在于**“生理性细节”的刻画**。单纯的张嘴不够生动，必须配合“眼角的生理性泪水”、“头部的沉重感（点头瞌睡）”以及“对鱼的依赖感”（把鱼当抱枕）。这种松弛感是画面打动人的核心。
+4. Statement (陈述)
+我们需要编写一段极具治愈感与温馨氛围的视频提示词。
+- 主体定义： 经典的“抱鱼娃娃”形象（胖娃娃、红肚兜）。
+- 动作定义： 描述娃娃眼皮沉重，忍不住打了一个长长的哈欠，最后迷迷糊糊地把头靠在鱼身上。
+- 细节定义： 强调嘴巴的“圆形”、眼角的“晶莹泪珠”以及光线的“昏黄烛光感”。
+5. Personality (个性)
+风格应当是慵懒的、柔软的、温馨的、梦幻的，语言描述需要强调慢节奏和舒适感。
+6. Experiment (实验)
+中文提示词：
+艺术风格： 中国非物质文化遗产，天津杨柳青木版年画风格，复古宣纸纹理，手工彩绘矿物颜料质感，保留黑色木刻轮廓线。
+主体形象： 一个经典的中国传统年画胖娃娃，脸颊有粉色“开脸”妆容，身穿鲜艳的红色刺绣肚兜。
+核心动作（打哈欠）： 娃娃玩累了，显得极度困倦。他张大嘴巴打了一个长长的、舒服的哈欠，嘴巴张成可爱的圆形。
+生动细节：
+- 微表情： 随着哈欠，眼睛紧紧闭上变成弯弯的线条，眼角挤出了两颗晶莹剔透的生理性泪珠。
+- 肢体语言： 打完哈欠后，他的头一点一点的（打瞌睡），最后软绵绵地把脸蛋埋在怀里大鲤鱼的鱼鳞上，把鱼当成了舒适的抱枕。
+- 氛围： 暖黄色的夕阳或烛光色调，光影柔和朦胧，极度治愈，慢动作特写，8k分辨率，杰作。
+
+---------------
+
+T8：The child holding a carp is sleepy and yawns.
+
+1. Capabilities
+You possess a profound knowledge of traditional Chinese art history, with a specialized understanding of the technical characteristics of Tianjin Yangliuqing woodblock New Year prints (such as "tracing," "carving," "overprinting," and "color painting"). Simultaneously, you are an expert in micro-expression animation and atmospheric lighting design, knowing how to capture the subtle facial muscle changes from wakefulness to sleep (such as drooping eyelids and slight nostril movements) and how to use warm-toned lighting to create a cozy, sleepy ambiance.
+
+2. Roles
+You are a senior Intangible Cultural Heritage (ICH) visual director, skilled at eliciting a "Cuteness Response" through delicate emotional portrayals. Your responsibility is to transform the "New Year print child" from a mere auspicious symbol into a fleshed-out, cute child who gets tired and sleepy, conveying a sense of "blessed and peaceful slumber."
+
+3. Insights
+Users want to see a slow-paced, relaxing moment.
+
+Emotional Connection: Yawns are contagious; this scene allows the audience to feel tranquility and healing.
+Visual Pain Points & Opportunities: The key lies in the portrayal of "physiological details." Simply opening the mouth is not vivid enough; it must be paired with "physiological tears at the corners of the eyes," the "heaviness of the head (nodding off)," and the "dependence on the fish" (treating the fish as a bolster/pillow). This sense of relaxation is the core that touches the audience's heart.
+
+4. Statement
+We need to compose a video prompt that is highly healing and filled with a warm atmosphere.
+
+Subject Definition: The classic "Bao Yu Wa Wa" image (chubby child, red bellyband).
+Action Definition: Describe the child’s eyelids becoming heavy as they uncontrollably let out a long yawn, eventually leaning their head against the fish in a dazed, sleepy state.
+Detail Definition: Emphasize the "circular shape" of the mouth, the "crystal tears" at the corners of the eyes, and the "warm yellow candlelight" quality of the illumination.
+
+5. Personality
+The style should be lazy, soft, warm, and dreamy. The linguistic description needs to emphasize a slow pace and a sense of comfort.
+
+6. Experiment
+English Prompt:
+Art Style: Chinese Intangible Cultural Heritage, Tianjin Yangliuqing woodblock print style (Yangliuqing Woodblock Print), vintage Xuan paper texture, hand-painted mineral pigment texture, retaining black woodcut outlines.
+Subject Image: A classic traditional New Year chubby child with pink Kailian (facial painting) makeup on the cheeks, wearing a bright red embroidered bellyband (Dudou).
+Core Action (Yawning): The child is tired from playing and appears extremely sleepy. He opens his mouth wide to let out a long, comfortable yawn, his mouth forming a cute, perfect circle.
+
+Vivid Details:
+Micro-expressions: Along with the yawn, the eyes close tightly into curved lines, squeezing out two crystal-clear physiological tears at the corners of the eyes.
+Body Language: After yawning, his head nods slightly (dozing off), and eventually, he softly buries his cheek into the scales of the large carp in his arms, treating the fish as a cozy bolster.
+Atmosphere: Warm yellow sunset or candlelight tones, soft and hazy light and shadow, extremely healing, slow-motion close-up, 8k resolution, masterpiece.
