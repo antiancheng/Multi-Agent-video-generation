@@ -1,0 +1,26 @@
+T3:抱鱼娃娃在荷叶上滑倒了
+
+主提示词
+准备：抱鱼娃娃双足微踮立于圆润荷叶中央，怀抱金鳞锦鲤的双臂略收紧，衣袂随重心前倾轻颤，目光聚焦前方水波，呼吸间红肚兜与青绿裤脚微微起伏。  
+高潮：荷叶骤然打滑，娃娃腰身一拧失衡后仰，双腿错开蹬空，怀中金鱼甩尾溅起水珠，绸缎衣袖与飘带如涟漪翻卷，发髻上绒球急晃，整具身躯沿叶面弧度疾速滑落。  
+收尾：身子跌坐叶心，臀下荷叶反弹轻颤，娃娃一手仍紧搂鱼腹，一手撑叶稳住余势，脸颊泛红、眼眸圆睁带笑，水滴自衣角缓缓滑落，涟漪未息。  
+风格：杨柳青年画典型配色——朱红、靛蓝、翠绿交织，娃娃脸庞丰润白皙，服饰饰以吉祥云纹与鱼鳞暗绣，整体造型圆拙喜庆，动态中不失传统木版年画的平面装饰韵律。
+负面词
+3D, 写实摄影, 真实照片, 渲染光效, 现代服饰, 西式卡通, 动漫, 科技元素, 霓虹, CG, 模糊, 低清晰度, 水印, 英文文本
+
+---------------
+
+T3:The child holding a carp slips on a lotus leaf.
+
+[Main Prompt]
+
+Preparation: The Bao Yu Wa Wa (child holding a carp) stands at the center of a rounded lotus leaf on slight tiptoe. The arms embracing the golden-scaled koi tighten slightly. The sleeves tremble as the center of gravity shifts forward. The gaze is focused on the water ripples ahead, while the red bellyband (Dudou) and emerald green trouser legs rise and fall subtly with breathing.
+
+Climax: The lotus leaf suddenly slips. The child’s waist twists as balance is lost, leaning backward with legs splayed and kicking the air. The goldfish in the arms thrashes its tail, splashing water droplets. Satin sleeves and ribbons unfurl like rolling ripples; the fluff balls on the hair bun shake violently. The entire body slides rapidly along the curvature of the leaf surface.
+
+Conclusion: The child falls and sits at the heart of the leaf, which bounces and trembles slightly under the impact. One hand still tightly clutches the fish’s belly while the other braces against the leaf to steady the remaining momentum. The cheeks are flushed, and the eyes are wide with a smile. Water droplets slide slowly from the edge of the clothes, and the ripples on the water have not yet subsided.
+
+Style: Typical Yangliuqing woodblock print color scheme—interweaving vermilion, indigo, and emerald green. The child’s face is plump and fair. The clothing is adorned with auspicious cloud patterns and hidden embroidery of fish scales. The overall silhouette is rounded, naive, and festive, maintaining the flat decorative rhythm of traditional woodblock prints within the dynamic motion.
+
+[Negative Prompts]
+3D, realistic photography, real photos, rendering light effects, modern clothing, Western-style cartoons, anime, technological elements, neon, CG, blurry, low resolution, watermark, English text.

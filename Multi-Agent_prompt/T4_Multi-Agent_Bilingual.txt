@@ -1,0 +1,26 @@
+T4:金鱼试图从娃娃怀里挣脱
+
+主提示词
+准备：抱鱼娃娃双臂微收，指尖轻扣金鱼尾鳍，肩肘蓄力下沉，衣袖随呼吸微微起伏；金鱼眼珠斜睨，鳃盖急促翕动，鳞片在襁褓褶皱间泛出细碎金光。  
+高潮：金鱼猛然甩尾，脊背弓起如弦，鱼鳍劈开绸缎襁褓，娃娃十指急攥却滑过湿鳞，红袄袖口因拉扯绷出凌厉褶线，金鱼尾梢扫落鬓边绒花。  
+收尾：娃娃臂弯虚拢成空环，掌心残留水痕蜿蜒如泪，金鱼悬停半空一瞬后坠回怀中，鱼嘴犹自开合，二人目光胶着于未竟的挣脱之势。  
+风格：杨柳青年画浓彩重墨风格，娃娃面若银盆点朱唇，身着桃红镶金滚边袄裙，怀抱锦鳞金鱼——鱼身绘五彩祥云纹，背景虚化为靛蓝底衬万字不断纹。
+负面词
+3D, 写实摄影, 真实照片, 渲染光效, 现代服饰, 西式卡通, 动漫, 科技元素, 霓虹, CG, 模糊, 低清晰度, 水印, 英文文本
+
+---------------
+
+T4:The goldfish attempts to break free from the child’s embrace.
+
+[Main Prompt]
+
+Preparation: The Bao Yu Wa Wa (child holding a carp) slightly draws in the arms, fingertips lightly touching the goldfish's tail fin. Shoulders and elbows sink while gathering strength, and the sleeves rise and fall subtly with breathing. The goldfish's eyes glance sideways, its gill covers flap rapidly, and its scales shimmer with fine golden light amidst the folds of the swaddling cloth.
+
+Climax: The goldfish suddenly thrashes its tail, its back arching like a bowstring. The fins split the satin swaddle; the child’s ten fingers grasp urgently but slide over the wet scales. The red jacket cuffs strain with sharp creases due to the pulling, and the tip of the fish’s tail knocks off the velvet flower by the child's temple.
+
+Conclusion: The child’s arms loosely form an empty circle, with water marks lingering on the palms, meandering like tears. The goldfish hovers in mid-air for a moment before falling back into the embrace. The fish's mouth continues to open and close, as the gaze of both remains locked in the unfinished momentum of the escape.
+
+Style: The rich and heavy color style of Yangliuqing woodblock prints. The child has a full, round face with vermilion-dotted lips, dressed in a peach-pink jacket and skirt with gold-inlaid borders. The goldfish with brocade scales is painted with five-colored auspicious cloud patterns; the background is blurred into an indigo base with continuous Wan character fret patterns.
+
+[Negative Prompts]
+3D, realistic photography, real photos, rendering light effects, modern clothing, Western-style cartoons, anime, technological elements, neon, CG, blurry, low resolution, watermark, English text.

@@ -1,0 +1,26 @@
+T1：抱鱼娃娃在荷花上跳舞
+
+主提示词
+准备：抱鱼娃娃双足轻点荷瓣边缘，微屈膝蓄力，怀中金鱼尾鳍轻摆激起细碎水珠，衣袂与腰间红绸随浅吸气微微鼓动，目光凝注前方莲蓬，身形如弓初引。  
+高潮：身子旋起腾跃，双臂舒展将金鱼高举过顶，鱼身鳞光闪烁与袖口金线交映，荷叶因蹬踏猛然下压又弹回，水花飞溅中裙裾翻卷如莲绽开，足尖点过三片浮萍完成回旋。  
+收尾：落足于最大荷叶中心，膝弯缓沉卸力，怀中金鱼悠然摆尾贴回胸前，指尖余颤未息，唇角含笑垂眸，水面涟漪层层推远，似舞未尽而意已绵长。  
+风格：杨柳青年画典型设色——朱红袄、翠绿裤、鹅黄披帛，面部圆润点朱唇，鱼鳞以银粉勾描，荷花粉白渐变带墨线勾筋，整体扁平装饰感中透出律动生机。
+负面词
+3D, 写实摄影, 真实照片, 渲染光效, 现代服饰, 西式卡通, 动漫, 科技元素, 霓虹, CG, 模糊, 低清晰度, 水印, 英文文本
+
+---------------
+
+T2：The child holding a carp is dancing on a lotus flower.
+
+[Main Prompt]
+
+Preparation: The Bao Yu Wa Wa (child holding a carp) lightly taps the edges of the lotus petals with both feet, knees slightly bent to gather momentum. The tail fin of the goldfish in the child's arms sways gently, splashing tiny water droplets. The sleeves and the red silk sash around the waist billow slightly with a shallow inhalation. Eyes are fixed on the lotus seedpod ahead; the posture is poised like a drawn bow ready to be released.
+
+Climax: The body leaps and spins upward; arms stretch out to raise the goldfish high overhead. The shimmering scales of the fish reflect the golden threads on the sleeves. The lotus leaf is suddenly pressed down by the force of the step and then bounces back. Amidst the splashing water, the skirt hem unfurls like a blooming lotus. The toes tap across three patches of floating duckweed to complete the pirouette.
+
+Conclusion: Landing at the center of the largest lotus leaf, the knees sink slowly to absorb the impact. The goldfish in the arms leisurely sways its tail and returns to the child's chest. Residual tremors remain in the fingertips; the lips carry a faint smile as the eyes gaze downward. Ripples on the water surface push outward layer by layer, as if the dance is unfinished and its essence lingers.
+
+Style: Typical Yangliuqing woodblock print coloration—vermilion jacket, emerald green pants, and pale yellow sash. The face is rounded with vermilion-dotted lips. Fish scales are traced with silver powder. The lotus features a pink-to-white gradient with ink-line outlines. A sense of rhythmic vitality emerges from the overall flat, decorative style.
+
+[Negative Prompts]
+3D, realistic photography, real photos, rendering light effects, modern clothing, Western-style cartoons, anime, technological elements, neon, CG, blurry, low resolution, watermark, English text.
